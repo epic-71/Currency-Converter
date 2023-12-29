@@ -1,0 +1,51 @@
+{
+<<<<<<< HEAD
+  "name": "11-react-quiz",
+=======
+  "name": "09-currency-convertet",
+>>>>>>> b30ce94 (first commit)
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
+    "json-server": "^0.17.4",
+=======
+>>>>>>> b30ce94 (first commit)
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+<<<<<<< HEAD
+    "eject": "react-scripts eject",
+    "server": "json-server --watch data/questions.json --port 8000"
+=======
+    "eject": "react-scripts eject"
+>>>>>>> b30ce94 (first commit)
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
